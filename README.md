@@ -14,7 +14,7 @@ he SRI RAM wants to create an annual sales report for 2025. So that, the owner o
 - Highest selling category?
 - Percentage of Total Orders delivered
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/srimatraynamaha/Data-analysis-Dashboard/blob/main/Data%20analysis%20image.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -23,9 +23,8 @@ he SRI RAM wants to create an annual sales report for 2025. So that, the owner o
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
-
+<<img width="1536" height="1024" alt="Data analysis image" src="https://github.com/user-attachments/assets/10f680a0-8f9e-48ce-980a-733f9338778d" />
+ 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
 - The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
