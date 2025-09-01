@@ -23,7 +23,7 @@ The SRI RAM stores wants to create an annual sales report for 2025. So that, the
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-<<img width="1536" height="1024" alt="Data analysis image" src="https://github.com/user-attachments/assets/10f680a0-8f9e-48ce-980a-733f9338778d" />
+<img width="1536" height="1024" alt="Data analysis image" src="https://github.com/user-attachments/assets/10f680a0-8f9e-48ce-980a-733f9338778d" />
  
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
