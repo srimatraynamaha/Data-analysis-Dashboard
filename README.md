@@ -1,4 +1,4 @@
-# SRI RAM store data analy (Interactive Dashboard creation using MS Excel)
+# SRI RAM stores data analysis Interactive Dashboard 
 ## Project Objective
 The SRI RAM stores wants to create an annual sales report for 2025. So that, the owner of the SRI RAM store can understand their customers and grow more sales in 2026 & 2027.
 ## Dataset used
